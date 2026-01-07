@@ -1,0 +1,22 @@
+pm2 stop whale-tracker
+Arrêter
+
+
+pm2 start whale-tracker
+Démarrer
+
+
+pm2 restart whale-tracker
+Redémarrer
+
+
+pm2 logs whale-tracker
+Voir les logs
+
+
+pm2 status
+Voir l'état
+
+
+pm2 delete whale-tracker
+Supprimer complètement
